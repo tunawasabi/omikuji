@@ -1,3 +1,7 @@
+html {
+    touch-action: manipulation;
+}
+
 #result {
     border: black 10px dashed;
     padding: 45px;
