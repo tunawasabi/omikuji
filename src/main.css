@@ -1,4 +1,9 @@
 #result {
     border: black 10px dashed;
     padding: 45px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 32px;
+    height: 32px;
+    font-weight: bold;
 }
