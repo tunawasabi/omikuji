@@ -1,0 +1,2 @@
+# omikuji
+Very severe omikuji.
