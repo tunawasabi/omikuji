@@ -2,6 +2,16 @@ html {
     touch-action: manipulation;
 }
 
+body {
+    background : linear-gradient(to right,
+                               orange,
+                               yellow,
+                               green,
+                               aqua,
+                               blue);
+    color: #eeeeee;
+}
+
 #result {
     border: black 10px dashed;
     padding: 45px;
